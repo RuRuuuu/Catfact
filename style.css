@@ -171,33 +171,33 @@ color:pink;
   }   
   
       .fun{
-        left:87px;
+        left:88px;
         top:180px;
         font-size: 45px;
       }
 
       .para1{
-        font-size:16px;
+        font-size:17px;
         left:50px;
         top:239px;
-        width:280px
+        width:300px
 
       }
 
       .arrow{
-        left:345px;
+        left:348px;
         font-size:30px;
       }
       
       .quote{
         font-size:13px;
         left:10px;
-        top:500px
+        top:540px
       }
      .cast{
       font-size: medium;
       left: 15px;
-      top:524px;
+      top:550px;
      }
 
      #para{
@@ -211,7 +211,7 @@ color:pink;
           text-align: center;
      }
      .imgg{
-      margin-left: 200px;
+      margin-left: 230px;
       width:250px;
      }
 
